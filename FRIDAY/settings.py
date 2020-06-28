@@ -25,7 +25,7 @@ SECRET_KEY = 'yq*omquy^=9i67d&^x1&v+v9yfcs1c6l)-vme9a&w3!%w#=9wb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['projectorion1122.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['projectorion1.herokuapp.com','127.0.0.1']
 
 
 # Application definition
